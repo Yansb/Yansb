@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Yan Santana Barreiro
 <!--
 **Yansb/Yansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
+
+## Hello 👋, 
+I'm Yan Santana.
+I'm a front-end developer :computer:
+
+-  🤔   I’m looking for jobs
+-  :heart:  In love with React Native, Typescript and Node
+- 💬   Ask me about: 💻️ tech, 👾️ games
