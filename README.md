@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
 ## Hello 👋, 
 I'm Yan Santana.
 I'm a front-end developer :computer:
