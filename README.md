@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 I'm Yan Santana.
 I'm a front-end developer :computer:
 
--  🤔   I’m looking for jobs
 -  :heart:  In love with React Native, Typescript and Node
 - 💬   Ask me about: 💻️ tech, 👾️ games
