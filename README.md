@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
+
+[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
+[![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
+
+
 ## Hello 👋, 
 I'm Yan Santana.
 I'm a front-end developer :computer:
 
 -  :heart:  In love with React Native, Typescript and Node
 - 💬   Ask me about: 💻️ tech, 👾️ games
+- 🔭 I’m currently working as an junior frontend dev using React and Typescript
+- 🌱 I’m currently learning primarily Nextjs
