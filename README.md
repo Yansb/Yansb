@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 
 ## Hello 👋, 
-I'm Yan Santana.
-I'm a front-end developer :computer:
 
 -  :heart:  In love with React Native, Typescript and Node
 - 💬   Ask me about: 💻️ tech, 👾️ games
 - 🔭 I’m currently working as an junior frontend dev using React and Typescript
-- 🌱 I’m currently learning primarily Nextjs
+- 🌱 I’m currently learning Nextjs
