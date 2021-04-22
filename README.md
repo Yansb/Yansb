@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Hello 👋, 
 
--  :heart:  In love with React Native, Typescript and Node
+-  :heart:  In love with React, Typescript and web development
 - 💬   Ask me about: 💻️ tech, 👾️ games
 - 🔭 I’m currently working as an junior frontend dev using React and Typescript
 - 🌱 I’m currently learning Nextjs
