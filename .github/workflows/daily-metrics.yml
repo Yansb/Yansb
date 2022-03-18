@@ -1,26 +1,22 @@
-name: Compact display
 
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - main
   schedule:
     - cron: "0 0 * * *"
-jobs:   
-  stats:
+  workflow_dispatch:
+  
+jobs:
+  metrics: 
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@v3.21
+    steps: 
+      - name: Compact display
+        uses: lowlighter/metrics@latest
         with:
-          # You'll need to setup a personal token in your secrets.
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
-
-          # Options
-          user: yansb
-          template: classic
-          base: header, activity, community
-          config_timezone: Europe/Oslo
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
