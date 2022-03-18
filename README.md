@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yansbarreiro@gmail.com
 
 
-## My Stats 🏆
+## My Stats 📖
 [![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
 [![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
+
+## My achievments 🏆
+
+![Achievements](https://raw.githubusercontent.com/yansb/yansb/github-metrics/achievements.svg)
+
