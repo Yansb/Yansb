@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 ## My achievments 🏆
 
-![Achievements](https://raw.githubusercontent.com/yansb/yansb/github-metrics/achievements.svg)
+![Achievements](https://github.com/Yansb/Yansb/blob/master/metrics.plugin.achievements.svg)
 
