@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
 
 
-<a href="https://app.daily.dev/Yansb"><img src="https://api.daily.dev/devcards/857cc3d1af91407683027b44749887aa.png?r=i90" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
+<a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
 
 
 
