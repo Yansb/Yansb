@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hello 👋, 
+
 [![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
-[![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
+
+<a href="https://app.daily.dev/Yansb"><img src="https://api.daily.dev/devcards/857cc3d1af91407683027b44749887aa.png?r=i90" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
 
 
-## Hello 👋, 
 
 -  :heart:  In love with back end
 - 💬   Ask me about: 💻️ tech, 👾️ games
@@ -29,3 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Nestjs
 - 📫 How to reach me: yansbarreiro@gmail.com
 
+
+## My Stats 🏆
+[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
+[![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
