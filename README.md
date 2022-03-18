@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ## Hello 👋, 
 
--  :heart:  In love with React, Typescript and web development
+-  :heart:  In love with back end
 - 💬   Ask me about: 💻️ tech, 👾️ games
-- 🔭 I’m currently working as an junior frontend dev using React and Typescript
-- 🌱 I’m currently learning Nextjs
+- 🔭 I’m currently working as an junior dev using nestjs
+- 🌱 I’m currently learning Nestjs
+- 📫 How to reach me: yansbarreiro@gmail.com
+
