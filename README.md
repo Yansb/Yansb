@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about DevOps and cloud 
 - 📫 How to reach me: yansbarreiro@gmail.com
 - 🐋 My dockerhub profile: https://hub.docker.com/u/yansb
-
+- 💻 My dev.to profile: https://dev.to/yanpiing
 
 ## My Stats ✨
 [![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
