@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
 
-
+## My Stats ✨
+[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
+[![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
 
 -  :heart:  In love with back end
 - 💬   Ask me about: 💻️ tech, 👾️ games
@@ -40,9 +42,7 @@ Here are some ideas to get you started:
 - 🐋 My dockerhub profile: https://hub.docker.com/u/yansb
 - 💻 My dev.to profile: https://dev.to/yanpiing
 
-## My Stats ✨
-[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
-[![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
+
 
 ## My achievments 🏆
 
