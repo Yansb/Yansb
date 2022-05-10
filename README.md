@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
 
-## Meus posts mais recentes
+## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
 - [DDD Módulos](https://dev.to/yanpiing/ddd-modulos-17cp)
 - [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
