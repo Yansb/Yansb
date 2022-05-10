@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 ## Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [DDD Módulos](https://dev.to/yanpiing/ddd-modulos-17cp)
+- [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
+- [DDD Repositórios](https://dev.to/yanpiing/ddd-repositorios-3kk9)
+- [DDD Services](https://dev.to/yanpiing/ddd-services-1cm7)
+- [Circuit Breaker em microsserviços](https://dev.to/yanpiing/circuit-breaker-em-microsservicos-12kl)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
