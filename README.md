@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Event Storming](https://dev.to/yanpiing/event-storming-4e6n)
 - [Padrões criacionais Factory](https://dev.to/yanpiing/padroes-criacionais-factory-2mol)
 - [DDD Factories](https://dev.to/yanpiing/ddd-factories-1cf2)
 - [Automatizando o Readme do GitHub](https://dev.to/yanpiing/automatizando-o-readme-do-github-5cpj)
 - [DDD Módulos](https://dev.to/yanpiing/ddd-modulos-17cp)
-- [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
