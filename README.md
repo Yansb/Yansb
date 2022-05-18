@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Arquitetura hexagonal](https://dev.to/yanpiing/arquitetura-hexagonal-1bpe)
 - [Como escolher um banco de dados](https://dev.to/yanpiing/como-escolher-um-banco-de-dados-3clk)
 - [Event Storming](https://dev.to/yanpiing/event-storming-4e6n)
 - [Padrões criacionais Factory](https://dev.to/yanpiing/padroes-criacionais-factory-2mol)
 - [DDD Factories](https://dev.to/yanpiing/ddd-factories-1cf2)
-- [Automatizando o Readme do GitHub](https://dev.to/yanpiing/automatizando-o-readme-do-github-5cpj)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
