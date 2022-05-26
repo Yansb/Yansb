@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Criando um servidor REST com GO](https://dev.to/yanpiing/criando-um-servidor-rest-com-go-2f4k)
 - [Cobra CLI no GO](https://dev.to/yanpiing/cobra-cli-no-go-44nl)
 - [Ponteiros em GO](https://dev.to/yanpiing/ponteiros-em-go-4c21)
 - [Como escrever testes automatizados em GO](https://dev.to/yanpiing/como-escrever-testes-automatizados-em-go-b2d)
 - [Arquitetura hexagonal](https://dev.to/yanpiing/arquitetura-hexagonal-1bpe)
-- [Como escolher um banco de dados](https://dev.to/yanpiing/como-escolher-um-banco-de-dados-3clk)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
