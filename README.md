@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Channels no go](https://dev.to/yanpiing/channels-no-go-905)
 - [Testes E2E](https://dev.to/yanpiing/testes-e2e-59hn)
 - [GO: Paralelismo e concorrência](https://dev.to/yanpiing/go-paralelismo-e-concorrencia-4mlo)
 - [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
 - [Clean Architecture](https://dev.to/yanpiing/clean-architecture-424c)
-- [Criando um servidor REST com GO](https://dev.to/yanpiing/criando-um-servidor-rest-com-go-2f4k)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
