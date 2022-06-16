@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ## 📚 Meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [O que aprendi ao criar um monolito seguindo boas praticas de DDD e Clean Architecture](https://dev.to/yanpiing/o-que-aprendi-ao-criar-um-monolito-seguindo-boas-praticas-de-ddd-e-clean-architecture-b64)
 - [Quando não utilizar o spread operator](https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33)
 - [Pontos positivos e negativos para Sistemas monolíticos](https://dev.to/yanpiing/boas-praticas-para-sistemas-monoliticos-38fc)
 - [Goroutines semaphores e pipeline pattern](https://dev.to/yanpiing/goroutines-semaphores-e-pipeline-pattern-3c9p)
 - [Criando Crons no Nestjs](https://dev.to/yanpiing/criando-crons-no-nestjs-4dkf)
-- [Channels no go](https://dev.to/yanpiing/channels-no-go-905)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
