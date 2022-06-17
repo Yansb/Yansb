@@ -1,4 +1,3 @@
-### Yan Santana Barreiro
 <!--
 **Yansb/Yansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
-## Hello 👋, 
+##  
 
 [![Gmail Badge](https://img.shields.io/badge/-yansbarreiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yansbarreiro@gmail.com)](mailto:yansbarreiro.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Yan%20Santana-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)](https://www.linkedin.com/in/yan-santana-barreiro-a61059174/)
 
-## 📚 Meus posts mais recentes
+## Olá 👋 que tal ler, meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
 - [Usando o Kubernets pela primeira vez](https://dev.to/yanpiing/usando-o-kubernets-pela-primeira-vez-1eoj)
 - [Configurando testes de integração no Nestjs com o Typeorm](https://dev.to/yanpiing/configurando-testes-de-integracao-no-nestjs-com-o-typeorm-37o3)
