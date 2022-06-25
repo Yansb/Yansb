@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Olá 👋 que tal ler, meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Observabilidade com kafka connect e elasticsearch](https://dev.to/yanpiing/observabilidade-com-kafka-connect-e-elasticsearch-30lb)
 - [RabbitMQ](https://dev.to/yanpiing/rabbitmq-goc)
 - [Kong API Gateway](https://dev.to/yanpiing/kong-api-gateway-3pk6)
 - [API Gateway](https://dev.to/yanpiing/api-gateway-iio)
 - [Usando o Kubernets pela primeira vez](https://dev.to/yanpiing/usando-o-kubernets-pela-primeira-vez-1eoj)
-- [Configurando testes de integração no Nestjs com o Typeorm](https://dev.to/yanpiing/configurando-testes-de-integracao-no-nestjs-com-o-typeorm-37o3)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
