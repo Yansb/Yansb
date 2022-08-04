@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Olá 👋 que tal ler, meus posts mais recentes
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns](https://dev.to/yanpiing/design-patterns-2246)
 - [Kubernets](https://dev.to/yanpiing/kubernets-32p6)
 - [Extensão Gitflow](https://dev.to/yanpiing/extensao-gitflow-3937)
 - [Kafka Connect](https://dev.to/yanpiing/kafka-connect-3i52)
 - [Kafka](https://dev.to/yanpiing/kafka-3ll7)
-- [Fazendo deploy com o kubernets no GCP](https://dev.to/yanpiing/fazendo-deploy-com-o-kubernets-no-gcp-3kjo)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
