@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 -  :heart:  In love with back end
 - 💬   Ask me about: 💻️ tech, 👾️ games
-- 🔭 I’m currently working as an junior dev using nestjs
+- 🔭 I’m currently working using nestjs
 - 🌱 I’m currently learning about DevOps and cloud 
 - 📫 How to reach me: yansbarreiro@gmail.com
 - 🐋 My dockerhub profile: https://hub.docker.com/u/yansb
