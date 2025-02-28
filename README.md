@@ -30,20 +30,10 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/Yansb"><img src="https://github.com/yansb/yansb/blob/master/devcard.svg" width="400" alt="Yan Santana Barreiro's Dev Card"/></a>
 
 ## My Stats ✨
-[![card](https://github-readme-stats.vercel.app/api?username=yansb&theme=dark)](https://github.com/yansb/)
 [![yansb](https://github-readme-stats.vercel.app/api/top-langs/?username=yansb&hide=html&layout=compact&theme=dark)](https://github.com/yansb/)
 
 -  :heart:  In love with back end
 - 💬   Ask me about: 💻️ tech, 👾️ games
-- 🔭 I’m currently working using nestjs
-- 🌱 I’m currently learning about DevOps and cloud 
+- 🔭 I’m currently working using Dotnet
 - 📫 How to reach me: yansbarreiro@gmail.com
-- 🐋 My dockerhub profile: https://hub.docker.com/u/yansb
 - 💻 My dev.to profile: https://dev.to/yanpiing
-
-
-
-## My achievments 🏆
-
-![Achievements](https://github.com/Yansb/Yansb/blob/master/metrics.plugin.achievements.svg)
-
